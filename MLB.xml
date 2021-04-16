@@ -220,7 +220,7 @@
         <title lang="en">No streaming</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-        <desc lang="en">Test.</desc>
+        <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210424032500 +0000" stop="20210424084000 +0000" channel="1">
         <title lang="en">LAD vs SD</title>
