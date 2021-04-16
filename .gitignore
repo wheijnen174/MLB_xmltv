@@ -1,5 +1,7 @@
 PopulateSchedule.py
 PopulateSchedule.bat
+RunStreams.py
+RunStreams.bat
 Teams.csv
 XML_base.txt
 dfSchedule.csv
