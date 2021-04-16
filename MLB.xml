@@ -127,7 +127,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210420212500 +0000" stop="20210421024000 +0000" channel="1">
-        <title lang="en">LAD @ SEA (22:10)</title>
+        <title lang="en">Dodgers @ Mariners (22:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Los_Angeles_Dodgers_logo_%28low_res%29.svg/1024px-Los_Angeles_Dodgers_logo_%28low_res%29.svg.png"/>
         <desc lang="en">Live streaming of a day game (2/2 of the series) of the Los Angeles Dodgers at the Seattle Mariners. First pitch is at 22:10. This game is played at T-Mobile Park on April 20, 2021</desc>
@@ -145,7 +145,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210417182000 +0000" stop="20210417233500 +0000" channel="2">
-        <title lang="en">ARI @ WSH (19:05)</title>
+        <title lang="en">D-backs @ Nationals (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg/1280px-Arizona_Diamondbacks_logo_%28low_res%29.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/4 of the series) of the Arizona Diamondbacks at the Washington Nationals. First pitch is at 19:05. This game is played at Nationals Park on April 17, 2021</desc>
@@ -157,7 +157,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210418182000 +0000" stop="20210418233500 +0000" channel="2">
-        <title lang="en">ARI @ WSH (19:05)</title>
+        <title lang="en">D-backs @ Nationals (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg/1280px-Arizona_Diamondbacks_logo_%28low_res%29.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Arizona Diamondbacks at the Washington Nationals. First pitch is at 19:05. This game is played at Nationals Park on April 18, 2021</desc>
@@ -169,7 +169,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210422175000 +0000" stop="20210422230500 +0000" channel="2">
-        <title lang="en">ARI @ CIN (18:35)</title>
+        <title lang="en">D-backs @ Reds (18:35)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg/1280px-Arizona_Diamondbacks_logo_%28low_res%29.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the Arizona Diamondbacks at the Cincinnati Reds. First pitch is at 18:35. This game is played at Great American Ball Park on April 22, 2021</desc>
@@ -187,7 +187,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210415173500 +0000" stop="20210415225000 +0000" channel="3">
-        <title lang="en">ATL vs MIA (18:20)</title>
+        <title lang="en">Braves vs Marlins (18:20)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Atlanta_Braves.svg/1920px-Atlanta_Braves.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Miami Marlins at the Atlanta Braves. First pitch is at 18:20. This game is played at Truist Park on April 15, 2021</desc>
@@ -199,7 +199,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210416193500 +0000" stop="20210417005000 +0000" channel="3">
-        <title lang="en">ATL @ CHC (20:20)</title>
+        <title lang="en">Braves @ Cubs (20:20)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Atlanta_Braves.svg/1920px-Atlanta_Braves.svg.png"/>
         <desc lang="en">Live streaming of a day game (1/3 of the series) of the Atlanta Braves at the Chicago Cubs. First pitch is at 20:20. This game is played at Wrigley Field on April 16, 2021</desc>
@@ -217,7 +217,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210425182000 +0000" stop="20210425233500 +0000" channel="4">
-        <title lang="en">BAL vs OAK (19:05)</title>
+        <title lang="en">Orioles vs Athletics (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Baltimore_Orioles_cap.svg/1024px-Baltimore_Orioles_cap.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the Oakland Athletics at the Baltimore Orioles. First pitch is at 19:05. This game is played at Oriole Park at Camden Yards on April 25, 2021</desc>
@@ -235,7 +235,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210419162500 +0000" stop="20210419214000 +0000" channel="5">
-        <title lang="en">BOS vs CWS (17:10)</title>
+        <title lang="en">Red Sox vs White Sox (17:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1024px-RedSoxPrimary_HangingSocks.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Chicago White Sox at the Boston Red Sox. First pitch is at 17:10. This game is played at Fenway Park on April 19, 2021</desc>
@@ -253,7 +253,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210416193500 +0000" stop="20210417005000 +0000" channel="6">
-        <title lang="en">CHC vs ATL (20:20)</title>
+        <title lang="en">Cubs vs Braves (20:20)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1024px-Chicago_Cubs_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (1/3 of the series) of the Atlanta Braves at the Chicago Cubs. First pitch is at 20:20. This game is played at Wrigley Field on April 16, 2021</desc>
@@ -265,7 +265,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210423193500 +0000" stop="20210424005000 +0000" channel="6">
-        <title lang="en">CHC vs MIL (20:20)</title>
+        <title lang="en">Cubs vs Brewers (20:20)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1024px-Chicago_Cubs_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (1/3 of the series) of the Milwaukee Brewers at the Chicago Cubs. First pitch is at 20:20. This game is played at Wrigley Field on April 23, 2021</desc>
@@ -283,7 +283,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210419162500 +0000" stop="20210419214000 +0000" channel="7">
-        <title lang="en">CWS @ BOS (17:10)</title>
+        <title lang="en">White Sox @ Red Sox (17:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/800px-Chicago_White_Sox.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Chicago White Sox at the Boston Red Sox. First pitch is at 17:10. This game is played at Fenway Park on April 19, 2021</desc>
@@ -301,7 +301,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210422175000 +0000" stop="20210422230500 +0000" channel="8">
-        <title lang="en">CIN vs ARI (18:35)</title>
+        <title lang="en">Reds vs D-backs (18:35)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1920px-Cincinnati_Reds_Logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the Arizona Diamondbacks at the Cincinnati Reds. First pitch is at 18:35. This game is played at Great American Ball Park on April 22, 2021</desc>
@@ -319,7 +319,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210424182500 +0000" stop="20210424234000 +0000" channel="11">
-        <title lang="en">DET vs KAN (19:10)</title>
+        <title lang="en">Tigers vs Royals (19:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/800px-Detroit_Tigers_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (2/4 of the series) of the Kansas City Royals at the Detroit Tigers. First pitch is at 19:10. This game is played at Comerica Park on April 24, 2021</desc>
@@ -331,7 +331,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210426182500 +0000" stop="20210426234000 +0000" channel="11">
-        <title lang="en">DET vs KAN (19:10)</title>
+        <title lang="en">Tigers vs Royals (19:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/800px-Detroit_Tigers_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Kansas City Royals at the Detroit Tigers. First pitch is at 19:10. This game is played at Comerica Park on April 26, 2021</desc>
@@ -349,7 +349,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210424182500 +0000" stop="20210424234000 +0000" channel="13">
-        <title lang="en">KAN @ DET (19:10)</title>
+        <title lang="en">Royals @ Tigers (19:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/800px-Kansas_City_Royals.svg.png"/>
         <desc lang="en">Live streaming of a day game (2/4 of the series) of the Kansas City Royals at the Detroit Tigers. First pitch is at 19:10. This game is played at Comerica Park on April 24, 2021</desc>
@@ -361,7 +361,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210426182500 +0000" stop="20210426234000 +0000" channel="13">
-        <title lang="en">KAN @ DET (19:10)</title>
+        <title lang="en">Royals @ Tigers (19:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/800px-Kansas_City_Royals.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Kansas City Royals at the Detroit Tigers. First pitch is at 19:10. This game is played at Comerica Park on April 26, 2021</desc>
@@ -379,7 +379,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210415173500 +0000" stop="20210415225000 +0000" channel="15">
-        <title lang="en">MIA @ ATL (18:20)</title>
+        <title lang="en">Marlins @ Braves (18:20)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Marlins_team_logo.svg/1024px-Marlins_team_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Miami Marlins at the Atlanta Braves. First pitch is at 18:20. This game is played at Truist Park on April 15, 2021</desc>
@@ -397,7 +397,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210423193500 +0000" stop="20210424005000 +0000" channel="16">
-        <title lang="en">MIL @ CHC (20:20)</title>
+        <title lang="en">Brewers @ Cubs (20:20)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/1024px-Milwaukee_Brewers_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (1/3 of the series) of the Milwaukee Brewers at the Chicago Cubs. First pitch is at 20:20. This game is played at Wrigley Field on April 23, 2021</desc>
@@ -415,7 +415,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210414182200 +0000" stop="20210414233700 +0000" channel="19">
-        <title lang="en">NYY @ TOR (19:07)</title>
+        <title lang="en">Yankees @ Blue Jays (19:07)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/800px-NewYorkYankees_PrimaryLogo.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the New York Yankees at the Toronto Blue Jays. First pitch is at 19:07. This game is played at TD Ballpark on April 14, 2021</desc>
@@ -433,7 +433,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210425182000 +0000" stop="20210425233500 +0000" channel="20">
-        <title lang="en">OAK @ BAL (19:05)</title>
+        <title lang="en">Athletics @ Orioles (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1024px-Oakland_A%27s_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the Oakland Athletics at the Baltimore Orioles. First pitch is at 19:05. This game is played at Oriole Park at Camden Yards on April 25, 2021</desc>
@@ -451,7 +451,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210421182000 +0000" stop="20210421233500 +0000" channel="21">
-        <title lang="en">PHI vs SF (19:05)</title>
+        <title lang="en">Phillies vs Giants (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Philadelphia_Phillies_%282019%29_logo.svg/1024px-Philadelphia_Phillies_%282019%29_logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the San Francisco Giants at the Philadelphia Phillies. First pitch is at 19:05. This game is played at Citizens Bank Park on April 21, 2021</desc>
@@ -469,7 +469,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210421182000 +0000" stop="20210421233500 +0000" channel="24">
-        <title lang="en">SF @ PHI (19:05)</title>
+        <title lang="en">Giants @ Phillies (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/San_Francisco_Giants_Logo.svg/1920px-San_Francisco_Giants_Logo.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the San Francisco Giants at the Philadelphia Phillies. First pitch is at 19:05. This game is played at Citizens Bank Park on April 21, 2021</desc>
@@ -487,7 +487,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210420212500 +0000" stop="20210421024000 +0000" channel="25">
-        <title lang="en">SEA vs LAD (22:10)</title>
+        <title lang="en">Mariners vs Dodgers (22:10)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/1024px-Seattle_Mariners_logo_%28low_res%29.svg.png"/>
         <desc lang="en">Live streaming of a day game (2/2 of the series) of the Los Angeles Dodgers at the Seattle Mariners. First pitch is at 22:10. This game is played at T-Mobile Park on April 20, 2021</desc>
@@ -505,7 +505,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210414182200 +0000" stop="20210414233700 +0000" channel="29">
-        <title lang="en">TOR vs NYY (19:07)</title>
+        <title lang="en">Blue Jays vs Yankees (19:07)</title>
         <previously-shown/>
         <icon src="https://sportslogohistory.com/wp-content/uploads/2016/SLH/mlb_primary/toronto_blue_jays.png"/>
         <desc lang="en">Live streaming of a day game (3/3 of the series) of the New York Yankees at the Toronto Blue Jays. First pitch is at 19:07. This game is played at TD Ballpark on April 14, 2021</desc>
@@ -523,7 +523,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210417182000 +0000" stop="20210417233500 +0000" channel="30">
-        <title lang="en">WSH vs ARI (19:05)</title>
+        <title lang="en">Nationals vs D-backs (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Washington_Nationals_logo_%28low_res%29.svg/1024px-Washington_Nationals_logo_%28low_res%29.svg.png"/>
         <desc lang="en">Live streaming of a day game (3/4 of the series) of the Arizona Diamondbacks at the Washington Nationals. First pitch is at 19:05. This game is played at Nationals Park on April 17, 2021</desc>
@@ -535,7 +535,7 @@
         <desc lang="en">At this time, there is no game available.</desc>
     </programme>
     <programme start="20210418182000 +0000" stop="20210418233500 +0000" channel="30">
-        <title lang="en">WSH vs ARI (19:05)</title>
+        <title lang="en">Nationals vs D-backs (19:05)</title>
         <previously-shown/>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Washington_Nationals_logo_%28low_res%29.svg/1024px-Washington_Nationals_logo_%28low_res%29.svg.png"/>
         <desc lang="en">Live streaming of a day game (4/4 of the series) of the Arizona Diamondbacks at the Washington Nationals. First pitch is at 19:05. This game is played at Nationals Park on April 18, 2021</desc>
