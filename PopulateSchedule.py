@@ -198,6 +198,8 @@ while True:
     # PushToGit = subprocess.run('git commit -a -m "Update of the MLB schedule"')
     # PushToGit = subprocess.run("git push")
 
+    print("Schedule updated.")
+
     time.sleep(60*60)
 
 
