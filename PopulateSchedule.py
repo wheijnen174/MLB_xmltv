@@ -66,40 +66,41 @@ while True:
         Games = ScheduleDate['games']
 
         for Game in Games:
-            StartTime = datetime.strptime(Game['gameDate'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=tz.tzutc()).astimezone(tz.tzlocal()) - timedelta(hours=2) - timedelta(minutes=45)
-            EndTime = StartTime + timedelta(hours=5, minutes=15)
+            if Game['status']['detailedState'] != "Postponed":
+                StartTime = datetime.strptime(Game['gameDate'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=tz.tzutc()).astimezone(tz.tzlocal()) - timedelta(hours=2) - timedelta(minutes=45)
+                EndTime = StartTime + timedelta(hours=5, minutes=15)
 
-            StartTime = StartTime.strftime("%Y%m%d%H%M%S")
-            EndTime = EndTime.strftime("%Y%m%d%H%M%S")
+                StartTime = StartTime.strftime("%Y%m%d%H%M%S")
+                EndTime = EndTime.strftime("%Y%m%d%H%M%S")
 
-            OfficialDate = datetime.strptime(Game['officialDate'], "%Y-%m-%d").strftime("%B %d, %Y")
+                OfficialDate = datetime.strptime(Game['officialDate'], "%Y-%m-%d").strftime("%B %d, %Y")
 
-            HomeTeam_Full = Game['teams']['home']['team']['name']
-            HomeTeam_Abbr = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamAbbrev'][0].upper()
-            HomeTeam_Short = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamName'][0]
-            AwayTeam_Full = Game['teams']['away']['team']['name']
-            AwayTeam_Abbr = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamAbbrev'][0].upper()
-            AwayTeam_Short = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamName'][0]
+                HomeTeam_Full = Game['teams']['home']['team']['name']
+                HomeTeam_Abbr = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamAbbrev'][0].upper()
+                HomeTeam_Short = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamName'][0]
+                AwayTeam_Full = Game['teams']['away']['team']['name']
+                AwayTeam_Abbr = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamAbbrev'][0].upper()
+                AwayTeam_Short = dfTeams_2[dfTeams_2['TeamID'] == dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['TeamID'][0]].reset_index(drop=True)['TeamName'][0]
 
-            Venue = Game['venue']['name']
+                Venue = Game['venue']['name']
 
-            GameType = Game['dayNight']
-            GameNumber = str(Game['seriesGameNumber']) + "/" + str(Game['gamesInSeries'])
+                GameType = Game['dayNight']
+                GameNumber = str(Game['seriesGameNumber']) + "/" + str(Game['gamesInSeries'])
 
-            FirstPitchTime = datetime.strptime(Game['gameDate'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=tz.tzutc()).astimezone(tz.tzlocal()).strftime("%H:%M")
+                FirstPitchTime = datetime.strptime(Game['gameDate'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=tz.tzutc()).astimezone(tz.tzlocal()).strftime("%H:%M")
 
-            ProgramDesc = "Live streaming of a {} game ({} of the series) of the {} at the {}. First pitch is at {}. This game is played at {} on {}".format(GameType.lower(), GameNumber, AwayTeam_Full, HomeTeam_Full, FirstPitchTime, Venue, OfficialDate)
+                ProgramDesc = "Live streaming of a {} game ({} of the series) of the {} at the {}. First pitch is at {}. This game is played at {} on {}".format(GameType.lower(), GameNumber, AwayTeam_Full, HomeTeam_Full, FirstPitchTime, Venue, OfficialDate)
 
-            HomeChannel = dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['Channel Number'][0]
-            HomeIcon = dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['LogoURL'][0]
-            HomeTitle = HomeTeam_Short + " vs " + AwayTeam_Short + " ({})".format(FirstPitchTime)
+                HomeChannel = dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['Channel Number'][0]
+                HomeIcon = dfTeams_1[dfTeams_1['FullName'] == HomeTeam_Full].reset_index(drop=True)['LogoURL'][0]
+                HomeTitle = HomeTeam_Short + " vs " + AwayTeam_Short + " ({})".format(FirstPitchTime)
 
-            AwayChannel = dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['Channel Number'][0]
-            AwayIcon = dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['LogoURL'][0]
-            AwayTitle = AwayTeam_Short + " @ " + HomeTeam_Short + " ({})".format(FirstPitchTime)
+                AwayChannel = dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['Channel Number'][0]
+                AwayIcon = dfTeams_1[dfTeams_1['FullName'] == AwayTeam_Full].reset_index(drop=True)['LogoURL'][0]
+                AwayTitle = AwayTeam_Short + " @ " + HomeTeam_Short + " ({})".format(FirstPitchTime)
 
 
-            dfSchedule_temp = pd.concat([dfSchedule_temp, pd.DataFrame([StartTime, EndTime, HomeChannel, HomeTitle, HomeIcon, "", AwayChannel, AwayTitle, AwayIcon, ProgramDesc]).transpose(), pd.DataFrame([StartTime, EndTime, AwayChannel, AwayTitle, AwayIcon, "@", HomeChannel, HomeTitle, HomeIcon, ProgramDesc]).transpose()]).reset_index(drop=True)
+                dfSchedule_temp = pd.concat([dfSchedule_temp, pd.DataFrame([StartTime, EndTime, HomeChannel, HomeTitle, HomeIcon, "", AwayChannel, AwayTitle, AwayIcon, ProgramDesc]).transpose(), pd.DataFrame([StartTime, EndTime, AwayChannel, AwayTitle, AwayIcon, "@", HomeChannel, HomeTitle, HomeIcon, ProgramDesc]).transpose()]).reset_index(drop=True)
 
     dfSchedule_temp.columns = ["StartTime", "EndTime", "HomeChannel", "HomeTitle", "HomeIcon", "HomeAway", "AwayChannel", "AwayTitle", "AwayIcon", "ProgramDesc"]
     dfSchedule_temp = dfSchedule_temp.sort_values(["HomeChannel", "StartTime"]).reset_index(drop=True)
