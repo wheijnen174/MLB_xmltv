@@ -2460,19 +2460,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1024px-Minnesota_Twins_logo_%28low_res%29.svg.png"/>
             <desc lang="en">Live streaming of a night game (1/3 of the series) of the Minnesota Twins at the Los Angeles Angels. First pitch is at 03:38. This game is played at Angel Stadium on April 16, 2021</desc>
         </programme>
-    <programme start="20210417060800 +0000" stop="20210420005500 +0000" channel="17">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210420005500 +0000" stop="20210420061000 +0000" channel="17">
-            <title lang="en">Twins @ Athletics (03:40)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1024px-Minnesota_Twins_logo_%28low_res%29.svg.png"/>
-            <desc lang="en">Live streaming of a night game (1/3 of the series) of the Minnesota Twins at the Oakland Athletics. First pitch is at 03:40. This game is played at Oakland Coliseum on April 19, 2021</desc>
-        </programme>
-    <programme start="20210420061000 +0000" stop="20210421005500 +0000" channel="17">
+    <programme start="20210417060800 +0000" stop="20210421005500 +0000" channel="17">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
@@ -2898,19 +2886,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1024px-Oakland_A%27s_logo.svg.png"/>
             <desc lang="en">Live streaming of a day game (4/4 of the series) of the Detroit Tigers at the Oakland Athletics. First pitch is at 22:07. This game is played at Oakland Coliseum on April 18, 2021</desc>
         </programme>
-    <programme start="20210419003700 +0000" stop="20210420005500 +0000" channel="20">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210420005500 +0000" stop="20210420061000 +0000" channel="20">
-            <title lang="en">Athletics vs Twins (03:40)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1024px-Oakland_A%27s_logo.svg.png"/>
-            <desc lang="en">Live streaming of a night game (1/3 of the series) of the Minnesota Twins at the Oakland Athletics. First pitch is at 03:40. This game is played at Oakland Coliseum on April 19, 2021</desc>
-        </programme>
-    <programme start="20210420061000 +0000" stop="20210421005500 +0000" channel="20">
+    <programme start="20210419003700 +0000" stop="20210421005500 +0000" channel="20">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
