@@ -684,19 +684,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
         </programme>
-    <programme start="20210416000000 +0000" stop="20210416222500 +0000" channel="5">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210416222500 +0000" stop="20210417034000 +0000" channel="5">
-            <title lang="en">Red Sox vs White Sox (01:10)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1024px-RedSoxPrimary_HangingSocks.svg.png"/>
-            <desc lang="en">Live streaming of a night game (1/4 of the series) of the Chicago White Sox at the Boston Red Sox. First pitch is at 01:10. This game is played at Fenway Park on April 18, 2021</desc>
-        </programme>
-    <programme start="20210417034000 +0000" stop="20210417192000 +0000" channel="5">
+    <programme start="20210416000000 +0000" stop="20210417192000 +0000" channel="5">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
@@ -996,19 +984,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
         </programme>
-    <programme start="20210416000000 +0000" stop="20210416222500 +0000" channel="7">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210416222500 +0000" stop="20210417034000 +0000" channel="7">
-            <title lang="en">White Sox @ Red Sox (01:10)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/800px-Chicago_White_Sox.svg.png"/>
-            <desc lang="en">Live streaming of a night game (1/4 of the series) of the Chicago White Sox at the Boston Red Sox. First pitch is at 01:10. This game is played at Fenway Park on April 18, 2021</desc>
-        </programme>
-    <programme start="20210417034000 +0000" stop="20210417192000 +0000" channel="7">
+    <programme start="20210416000000 +0000" stop="20210417192000 +0000" channel="7">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
@@ -1446,29 +1422,17 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
         </programme>
-    <programme start="20210416000000 +0000" stop="20210416235500 +0000" channel="10">
+    <programme start="20210416000000 +0000" stop="20210417024800 +0000" channel="10">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210416235500 +0000" stop="20210417051000 +0000" channel="10">
-            <title lang="en">Rockies vs Mets (02:40)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_Rockies_logo.svg/800px-Colorado_Rockies_logo.svg.png"/>
-            <desc lang="en">Live streaming of a night game (1/3 of the series) of the New York Mets at the Colorado Rockies. First pitch is at 02:40. This game is played at Coors Field on April 17, 2021</desc>
         </programme>
     <programme start="20210417024800 +0000" stop="20210417080300 +0000" channel="10">
             <title lang="en">Rockies vs Mets (05:33)</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_Rockies_logo.svg/800px-Colorado_Rockies_logo.svg.png"/>
             <desc lang="en">Live streaming of a night game (2/3 of the series) of the New York Mets at the Colorado Rockies. First pitch is at 05:33. This game is played at Coors Field on April 17, 2021</desc>
-        </programme>
-    <programme start="20210417051000 +0000" stop="20210417024800 +0000" channel="10">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
         </programme>
     <programme start="20210417080300 +0000" stop="20210417202500 +0000" channel="10">
             <title lang="en">No streaming</title>
@@ -1896,19 +1860,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
         </programme>
-    <programme start="20210416000000 +0000" stop="20210416232500 +0000" channel="13">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210416232500 +0000" stop="20210417044000 +0000" channel="13">
-            <title lang="en">Royals vs Blue Jays (02:10)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/800px-Kansas_City_Royals.svg.png"/>
-            <desc lang="en">Live streaming of a night game (2/4 of the series) of the Toronto Blue Jays at the Kansas City Royals. First pitch is at 02:10. This game is played at Kauffman Stadium on April 17, 2021</desc>
-        </programme>
-    <programme start="20210417044000 +0000" stop="20210417172500 +0000" channel="13">
+    <programme start="20210416000000 +0000" stop="20210417172500 +0000" channel="13">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
@@ -2070,31 +2022,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/800px-Los_Angeles_Angels_of_Anaheim.svg.png"/>
             <desc lang="en">Live streaming of a night game (1/3 of the series) of the Minnesota Twins at the Los Angeles Angels. First pitch is at 03:38. This game is played at Angel Stadium on April 16, 2021</desc>
         </programme>
-    <programme start="20210417060800 +0000" stop="20210418002200 +0000" channel="14">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210418002200 +0000" stop="20210418053700 +0000" channel="14">
-            <title lang="en">Angels vs Twins (03:07)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/800px-Los_Angeles_Angels_of_Anaheim.svg.png"/>
-            <desc lang="en">Live streaming of a night game (2/3 of the series) of the Minnesota Twins at the Los Angeles Angels. First pitch is at 03:07. This game is played at Angel Stadium on April 17, 2021</desc>
-        </programme>
-    <programme start="20210418053700 +0000" stop="20210418192200 +0000" channel="14">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210418192200 +0000" stop="20210419003700 +0000" channel="14">
-            <title lang="en">Angels vs Twins (22:07)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/800px-Los_Angeles_Angels_of_Anaheim.svg.png"/>
-            <desc lang="en">Live streaming of a day game (3/3 of the series) of the Minnesota Twins at the Los Angeles Angels. First pitch is at 22:07. This game is played at Angel Stadium on April 18, 2021</desc>
-        </programme>
-    <programme start="20210419003700 +0000" stop="20210420005300 +0000" channel="14">
+    <programme start="20210417060800 +0000" stop="20210420005300 +0000" channel="14">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
@@ -2532,31 +2460,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1024px-Minnesota_Twins_logo_%28low_res%29.svg.png"/>
             <desc lang="en">Live streaming of a night game (1/3 of the series) of the Minnesota Twins at the Los Angeles Angels. First pitch is at 03:38. This game is played at Angel Stadium on April 16, 2021</desc>
         </programme>
-    <programme start="20210417060800 +0000" stop="20210418002200 +0000" channel="17">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210418002200 +0000" stop="20210418053700 +0000" channel="17">
-            <title lang="en">Twins @ Angels (03:07)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1024px-Minnesota_Twins_logo_%28low_res%29.svg.png"/>
-            <desc lang="en">Live streaming of a night game (2/3 of the series) of the Minnesota Twins at the Los Angeles Angels. First pitch is at 03:07. This game is played at Angel Stadium on April 17, 2021</desc>
-        </programme>
-    <programme start="20210418053700 +0000" stop="20210418192200 +0000" channel="17">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210418192200 +0000" stop="20210419003700 +0000" channel="17">
-            <title lang="en">Twins @ Angels (22:07)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1024px-Minnesota_Twins_logo_%28low_res%29.svg.png"/>
-            <desc lang="en">Live streaming of a day game (3/3 of the series) of the Minnesota Twins at the Los Angeles Angels. First pitch is at 22:07. This game is played at Angel Stadium on April 18, 2021</desc>
-        </programme>
-    <programme start="20210419003700 +0000" stop="20210420005500 +0000" channel="17">
+    <programme start="20210417060800 +0000" stop="20210420005500 +0000" channel="17">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
@@ -2670,29 +2574,17 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
         </programme>
-    <programme start="20210416000000 +0000" stop="20210416235500 +0000" channel="18">
+    <programme start="20210416000000 +0000" stop="20210417024800 +0000" channel="18">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210416235500 +0000" stop="20210417051000 +0000" channel="18">
-            <title lang="en">Mets @ Rockies (02:40)</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1024px-New_York_Mets.svg.png"/>
-            <desc lang="en">Live streaming of a night game (1/3 of the series) of the New York Mets at the Colorado Rockies. First pitch is at 02:40. This game is played at Coors Field on April 17, 2021</desc>
         </programme>
     <programme start="20210417024800 +0000" stop="20210417080300 +0000" channel="18">
             <title lang="en">Mets @ Rockies (05:33)</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1024px-New_York_Mets.svg.png"/>
             <desc lang="en">Live streaming of a night game (2/3 of the series) of the New York Mets at the Colorado Rockies. First pitch is at 05:33. This game is played at Coors Field on April 17, 2021</desc>
-        </programme>
-    <programme start="20210417051000 +0000" stop="20210417024800 +0000" channel="18">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
         </programme>
     <programme start="20210417080300 +0000" stop="20210417202500 +0000" channel="18">
             <title lang="en">No streaming</title>
@@ -4320,19 +4212,7 @@
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
             <desc lang="en">At this time, there is no game available.</desc>
         </programme>
-    <programme start="20210416000000 +0000" stop="20210416232500 +0000" channel="29">
-            <title lang="en">No streaming</title>
-            <previously-shown/>
-            <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>
-            <desc lang="en">At this time, there is no game available.</desc>
-        </programme>
-    <programme start="20210416232500 +0000" stop="20210417044000 +0000" channel="29">
-            <title lang="en">Blue Jays @ Royals (02:10)</title>
-            <previously-shown/>
-            <icon src="https://sportslogohistory.com/wp-content/uploads/2016/SLH/mlb_primary/toronto_blue_jays.png"/>
-            <desc lang="en">Live streaming of a night game (2/4 of the series) of the Toronto Blue Jays at the Kansas City Royals. First pitch is at 02:10. This game is played at Kauffman Stadium on April 17, 2021</desc>
-        </programme>
-    <programme start="20210417044000 +0000" stop="20210417172500 +0000" channel="29">
+    <programme start="20210416000000 +0000" stop="20210417172500 +0000" channel="29">
             <title lang="en">No streaming</title>
             <previously-shown/>
             <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1920px-Major_League_Baseball_logo.svg.png"/>

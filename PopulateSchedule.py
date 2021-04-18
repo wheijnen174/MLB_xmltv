@@ -193,10 +193,10 @@ while True:
 
     dfSchedule.to_csv("Schedule.csv", index=False, sep=";")
 
-    # PushToGit = subprocess.run('git init')
-    # PushToGit = subprocess.run('git add *')
-    # PushToGit = subprocess.run('git commit -a -m "Update of the MLB schedule"')
-    # PushToGit = subprocess.run("git push")
+    PushToGit = subprocess.run('git init')
+    PushToGit = subprocess.run('git add *')
+    PushToGit = subprocess.run('git commit -a -m "Update of the MLB schedule"')
+    PushToGit = subprocess.run("git push")
 
     print("Schedule updated.")
 
