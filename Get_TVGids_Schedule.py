@@ -68,8 +68,12 @@ while True:
 
             Program = page_soup.find("head").find("title").text.strip()
             Program = Program[:Program.rfind(" - TV Gids")].strip()
-            ProgramDesc = page_soup.find("div",{"class":"section-item gray"}).find("p").text.replace("\r", "").replace("\n\n\n", "\n\n").split("\n\n")
-            ProgramDesc = ProgramDesc[0].strip() + "\n\n" + ProgramDesc[1].strip()
+            try:
+                ProgramDesc = page_soup.find("div",{"class":"section-item gray"}).find("p").text.replace("\r", "").replace("\n\n\n", "\n\n").split("\n\n")
+                ProgramDesc = ProgramDesc[0].strip() + "\n\n" + ProgramDesc[1].strip()
+            except:
+                ProgramDesc = page_soup.find("div",{"class":"section-item gray large"}).find("p").text.replace("\r", "").replace("\n\n\n", "\n\n").split("\n\n")
+                ProgramDesc = ProgramDesc[0].strip() + "\n\n" + ProgramDesc[1].strip()
 
             dfSchedule = pd.concat([dfSchedule, pd.DataFrame([TimeStart, TimeEnd, Channel_Real, Program, ProgramDesc]).transpose()]).reset_index(drop=True)
 
@@ -77,7 +81,7 @@ while True:
     dfSchedule = dfSchedule.sort_values(['StartTime']).drop_duplicates().reset_index(drop=True)
 
 
-    dfSchedule.insert(3, "Channel_ID", 1)
+    dfSchedule.insert(3, "Channel_ID", 30+1)
     dfSchedule.insert(4, "Icon", "https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png")
 
 

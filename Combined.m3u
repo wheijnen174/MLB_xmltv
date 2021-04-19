@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0 tvg-id="1" CUID="1" tvg-chno="1" tvg-name="Los Angeles Dodgers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Los_Angeles_Dodgers_logo_%28low_res%29.svg/1024px-Los_Angeles_Dodgers_logo_%28low_res%29.svg.png" group-title="MLB",Los Angeles Dodgers
+http://192.168.2.23:7115/
+#EXTINF:0 tvg-id="2" CUID="2" tvg-chno="2" tvg-name="Arizona Diamondbacks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg/1280px-Arizona_Diamondbacks_logo_%28low_res%29.svg.png" group-title="MLB",Arizona Diamondbacks
+http://192.168.2.23:7101/
+#EXTINF:0 tvg-id="3" CUID="3" tvg-chno="3" tvg-name="Atlanta Braves" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Atlanta_Braves.svg/1920px-Atlanta_Braves.svg.png" group-title="MLB",Atlanta Braves
+http://192.168.2.23:7102/
+#EXTINF:0 tvg-id="4" CUID="4" tvg-chno="4" tvg-name="Baltimore Orioles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Baltimore_Orioles_cap.svg/1024px-Baltimore_Orioles_cap.svg.png" group-title="MLB",Baltimore Orioles
+http://192.168.2.23:7103/
+#EXTINF:0 tvg-id="5" CUID="5" tvg-chno="5" tvg-name="Boston Red Sox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1024px-RedSoxPrimary_HangingSocks.svg.png" group-title="MLB",Boston Red Sox
+http://192.168.2.23:7104/
+#EXTINF:0 tvg-id="6" CUID="6" tvg-chno="6" tvg-name="Chicago Cubs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1024px-Chicago_Cubs_logo.svg.png" group-title="MLB",Chicago Cubs
+http://192.168.2.23:7105/
+#EXTINF:0 tvg-id="7" CUID="7" tvg-chno="7" tvg-name="Chicago White Sox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/800px-Chicago_White_Sox.svg.png" group-title="MLB",Chicago White Sox
+http://192.168.2.23:7106/
+#EXTINF:0 tvg-id="8" CUID="8" tvg-chno="8" tvg-name="Cincinnati Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1920px-Cincinnati_Reds_Logo.svg.png" group-title="MLB",Cincinnati Reds
+http://192.168.2.23:7107/
+#EXTINF:0 tvg-id="9" CUID="9" tvg-chno="9" tvg-name="Cleveland Indians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cleveland_Indians_primary_logo.svg/800px-Cleveland_Indians_primary_logo.svg.png" group-title="MLB",Cleveland Indians
+http://192.168.2.23:7108/
+#EXTINF:0 tvg-id="10" CUID="10" tvg-chno="10" tvg-name="Colorado Rockies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_Rockies_logo.svg/800px-Colorado_Rockies_logo.svg.png" group-title="MLB",Colorado Rockies
+http://192.168.2.23:7109/
+#EXTINF:0 tvg-id="11" CUID="11" tvg-chno="11" tvg-name="Detroit Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/800px-Detroit_Tigers_logo.svg.png" group-title="MLB",Detroit Tigers
+http://192.168.2.23:7110/
+#EXTINF:0 tvg-id="12" CUID="12" tvg-chno="12" tvg-name="Houston Astros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Houston-Astros-Logo.svg/1024px-Houston-Astros-Logo.svg.png" group-title="MLB",Houston Astros
+http://192.168.2.23:7112/
+#EXTINF:0 tvg-id="13" CUID="13" tvg-chno="13" tvg-name="Kansas City Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/800px-Kansas_City_Royals.svg.png" group-title="MLB",Kansas City Royals
+http://192.168.2.23:7113/
+#EXTINF:0 tvg-id="14" CUID="14" tvg-chno="14" tvg-name="Los Angeles Angels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/800px-Los_Angeles_Angels_of_Anaheim.svg.png" group-title="MLB",Los Angeles Angels
+http://192.168.2.23:7114/
+#EXTINF:0 tvg-id="15" CUID="15" tvg-chno="15" tvg-name="Miami Marlins" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Marlins_team_logo.svg/1024px-Marlins_team_logo.svg.png" group-title="MLB",Miami Marlins
+http://192.168.2.23:7111/
+#EXTINF:0 tvg-id="16" CUID="16" tvg-chno="16" tvg-name="Milwaukee Brewers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/1024px-Milwaukee_Brewers_logo.svg.png" group-title="MLB",Milwaukee Brewers
+http://192.168.2.23:7116/
+#EXTINF:0 tvg-id="17" CUID="17" tvg-chno="17" tvg-name="Minnesota Twins" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1024px-Minnesota_Twins_logo_%28low_res%29.svg.png" group-title="MLB",Minnesota Twins
+http://192.168.2.23:7117/
+#EXTINF:0 tvg-id="18" CUID="18" tvg-chno="18" tvg-name="New York Mets" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1024px-New_York_Mets.svg.png" group-title="MLB",New York Mets
+http://192.168.2.23:7118/
+#EXTINF:0 tvg-id="19" CUID="19" tvg-chno="19" tvg-name="New York Yankees" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/800px-NewYorkYankees_PrimaryLogo.svg.png" group-title="MLB",New York Yankees
+http://192.168.2.23:7119/
+#EXTINF:0 tvg-id="20" CUID="20" tvg-chno="20" tvg-name="Oakland Athletics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1024px-Oakland_A%27s_logo.svg.png" group-title="MLB",Oakland Athletics
+http://192.168.2.23:7120/
+#EXTINF:0 tvg-id="21" CUID="21" tvg-chno="21" tvg-name="Philadelphia Phillies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Philadelphia_Phillies_%282019%29_logo.svg/1024px-Philadelphia_Phillies_%282019%29_logo.svg.png" group-title="MLB",Philadelphia Phillies
+http://192.168.2.23:7121/
+#EXTINF:0 tvg-id="22" CUID="22" tvg-chno="22" tvg-name="Pittsburgh Pirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/800px-Pittsburgh_Pirates_logo_2014.svg.png" group-title="MLB",Pittsburgh Pirates
+http://192.168.2.23:7122/
+#EXTINF:0 tvg-id="23" CUID="23" tvg-chno="23" tvg-name="San Diego Padres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SD_Logo_Brown.svg/800px-SD_Logo_Brown.svg.png" group-title="MLB",San Diego Padres
+http://192.168.2.23:7123/
+#EXTINF:0 tvg-id="24" CUID="24" tvg-chno="24" tvg-name="San Francisco Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/San_Francisco_Giants_Logo.svg/1920px-San_Francisco_Giants_Logo.svg.png" group-title="MLB",San Francisco Giants
+http://192.168.2.23:7124/
+#EXTINF:0 tvg-id="25" CUID="25" tvg-chno="25" tvg-name="Seattle Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/1024px-Seattle_Mariners_logo_%28low_res%29.svg.png" group-title="MLB",Seattle Mariners
+http://192.168.2.23:7125/
+#EXTINF:0 tvg-id="26" CUID="26" tvg-chno="26" tvg-name="St. Louis Cardinals" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/1024px-St._Louis_Cardinals_logo.svg.png" group-title="MLB",St. Louis Cardinals
+http://192.168.2.23:7126/
+#EXTINF:0 tvg-id="27" CUID="27" tvg-chno="27" tvg-name="Tampa Bay Rays" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Tampa_Bay_Rays.svg/1920px-Tampa_Bay_Rays.svg.png" group-title="MLB",Tampa Bay Rays
+http://192.168.2.23:7127/
+#EXTINF:0 tvg-id="28" CUID="28" tvg-chno="28" tvg-name="Texas Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1024px-Texas_Rangers.svg.png" group-title="MLB",Texas Rangers
+http://192.168.2.23:7128/
+#EXTINF:0 tvg-id="29" CUID="29" tvg-chno="29" tvg-name="Toronto Blue Jays" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2016/SLH/mlb_primary/toronto_blue_jays.png" group-title="MLB",Toronto Blue Jays
+http://192.168.2.23:7129/
+#EXTINF:0 tvg-id="30" CUID="30" tvg-chno="30" tvg-name="Washington Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Washington_Nationals_logo_%28low_res%29.svg/1024px-Washington_Nationals_logo_%28low_res%29.svg.png" group-title="MLB",Washington Nationals
+http://192.168.2.23:7130/
+#EXTINF:0 tvg-id="31" CUID="31" tvg-chno="31" tvg-name="ESPN 1 (NL)" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png" group-title="Overig",ESPN 1 (NL)
+https://content-aeuf1.uplynk.com/channel/532ece05d1b44d6f89e9fcdedd09350f.m3u8?pbs=4f70afb7f912417283c860349663c07b
