@@ -85,8 +85,8 @@ while True:
         if i != len(dfSchedule)-1:
             dfSchedule.iloc[i,1] = dfSchedule.iloc[i+1,0]
         else:
-            Date = datetime.strptime(dfSchedule.iloc[i,0], "%Y%m%d%H%M%S")
-            print(Date)
+            Date = datetime.strptime(dfSchedule.iloc[i,0], "%Y%m%d%H%M%S").replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
+            dfSchedule.iloc[i,1] = Date.strftime("%Y%m%d%H%M%S")
 
 
     XML_Base = open("XML_base_Overig.txt", "r+", encoding="latin1").read()
