@@ -60,4 +60,4 @@ http://192.168.2.23:7129/
 #EXTINF:0 tvg-id="30" CUID="30" tvg-chno="30" tvg-name="Washington Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Washington_Nationals_logo_%28low_res%29.svg/1024px-Washington_Nationals_logo_%28low_res%29.svg.png" group-title="MLB",Washington Nationals
 http://192.168.2.23:7130/
 #EXTINF:0 tvg-id="31" CUID="31" tvg-chno="31" tvg-name="ESPN 1 (NL)" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png" group-title="Overig",ESPN 1 (NL)
-https://content-aeuf1.uplynk.com/channel/532ece05d1b44d6f89e9fcdedd09350f.m3u8?pbs=4f70afb7f912417283c860349663c07b
+https://content-aeuf1.uplynk.com/channel/532ece05d1b44d6f89e9fcdedd09350f/f.m3u8?pbs=4f70afb7f912417283c860349663c07b
