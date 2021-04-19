@@ -60,10 +60,14 @@ while True:
 
             TimeStart = pytz.timezone("Europe/Amsterdam").localize(Date + timedelta(hours=int(Time[0].strip().split(":")[0]), minutes=int(Time[0].strip().split(":")[1])))
             TimeStart_UTC = TimeStart.astimezone(pytz.timezone("UTC"))
-            TimeStart = TimeStart_UTC.strftime("%Y%m%d%H%M%S")
 
             TimeEnd = pytz.timezone("Europe/Amsterdam").localize(Date + timedelta(hours=int(Time[1].strip().split(":")[0]), minutes=int(Time[1].strip().split(":")[1])))
             TimeEnd_UTC = TimeEnd.astimezone(pytz.timezone("UTC"))
+            
+            if TimeEnd_UTC < TimeStart_UTC:
+                TimeEnd_UTC = TimeEnd_UTC + timedelta(days=1)
+            
+            TimeStart = TimeStart_UTC.strftime("%Y%m%d%H%M%S")
             TimeEnd = TimeEnd_UTC.strftime("%Y%m%d%H%M%S")
 
             Program = page_soup.find("head").find("title").text.strip()
