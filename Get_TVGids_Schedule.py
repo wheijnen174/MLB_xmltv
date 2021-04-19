@@ -60,15 +60,8 @@ while True:
 
             TimeStart = pytz.timezone("Europe/Amsterdam").localize(Date + timedelta(hours=int(Time[0].strip().split(":")[0]), minutes=int(Time[0].strip().split(":")[1])))
             TimeStart_UTC = TimeStart.astimezone(pytz.timezone("UTC"))
-
-            TimeEnd = pytz.timezone("Europe/Amsterdam").localize(Date + timedelta(hours=int(Time[1].strip().split(":")[0]), minutes=int(Time[1].strip().split(":")[1])))
-            TimeEnd_UTC = TimeEnd.astimezone(pytz.timezone("UTC"))
-            
-            if TimeEnd_UTC < TimeStart_UTC:
-                TimeEnd_UTC = TimeEnd_UTC + timedelta(days=1)
             
             TimeStart = TimeStart_UTC.strftime("%Y%m%d%H%M%S")
-            TimeEnd = TimeEnd_UTC.strftime("%Y%m%d%H%M%S")
 
             Program = page_soup.find("head").find("title").text.strip()
             Program = Program[:Program.rfind(" - TV Gids")].strip()
@@ -79,14 +72,21 @@ while True:
                 ProgramDesc = page_soup.find("div",{"class":"section-item gray large"}).find("p").text.replace("\r", "").replace("\n\n\n", "\n\n").split("\n\n")
                 ProgramDesc = ProgramDesc[0].strip() + "\n\n" + ProgramDesc[1].strip()
 
-            dfSchedule = pd.concat([dfSchedule, pd.DataFrame([TimeStart, TimeEnd, Channel_Real, Program, ProgramDesc]).transpose()]).reset_index(drop=True)
+            dfSchedule = pd.concat([dfSchedule, pd.DataFrame([TimeStart, Channel_Real, Program, ProgramDesc]).transpose()]).reset_index(drop=True)
 
-    dfSchedule.columns = ['StartTime', 'EndTime', 'Channel', 'Program', 'ProgramDesc']
+    dfSchedule.columns = ['StartTime', 'Channel', 'Program', 'ProgramDesc']
     dfSchedule = dfSchedule.sort_values(['StartTime']).drop_duplicates().reset_index(drop=True)
 
-
+    dfSchedule.insert(1, "EndTime", "")
     dfSchedule.insert(3, "Channel_ID", 30+1)
     dfSchedule.insert(4, "Icon", "https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png")
+
+    for i in range(len(dfSchedule)):
+        if i != len(dfSchedule)-1:
+            dfSchedule.iloc[i,1] = dfSchedule.iloc[i+1,0]
+        else:
+            Date = datetime.strptime(dfSchedule.iloc[i,0], "%Y%m%d%H%M%S")
+            print(Date)
 
 
     XML_Base = open("XML_base_Overig.txt", "r+", encoding="latin1").read()
