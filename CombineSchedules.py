@@ -69,6 +69,6 @@ NewFile.close()
 
 PushToGit = subprocess.run('git init')
 PushToGit = subprocess.run('git add *')
-PushToGit = subprocess.run('''git commit -a -m "Update of the 'Overig' schedule"''')
+PushToGit = subprocess.run('''git commit -a -m "Update of the combined schedule"''')
 PushToGit = subprocess.run("git push")
 
