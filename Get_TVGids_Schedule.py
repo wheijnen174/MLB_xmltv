@@ -111,7 +111,7 @@ while True:
 
     remove("Overig.xml")
     NewFile = open("Overig.xml", "w+", encoding="UTF-8") # , encoding="latin1"
-    NewFile.write(XML_Text.encode().decode('latin1').encode('utf8'))
+    NewFile.write(XML_Text.encode().decode('latin1').encode('utf8').decode().replace("&", "en"))
     NewFile.close()
 
     dfSchedule.to_csv("Schedule_Overig.csv", index=False, sep=";")
