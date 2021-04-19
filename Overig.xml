@@ -1,124 +1,8 @@
 <?xml version="1.0"?>
 <tv generator-info-name="psuedotv-plex">
     <channel id="1">
-        <display-name lang="en">Los Angeles Dodgers</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Los_Angeles_Dodgers_logo_%28low_res%29.svg/1024px-Los_Angeles_Dodgers_logo_%28low_res%29.svg.png"/>
-    </channel>
-    <channel id="2">
-        <display-name lang="en">Arizona Diamondbacks</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg/1280px-Arizona_Diamondbacks_logo_%28low_res%29.svg.png"/>
-    </channel>
-    <channel id="3">
-        <display-name lang="en">Atlanta Braves</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Atlanta_Braves.svg/1920px-Atlanta_Braves.svg.png"/>
-    </channel>
-    <channel id="4">
-        <display-name lang="en">Baltimore Orioles</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Baltimore_Orioles_cap.svg/1024px-Baltimore_Orioles_cap.svg.png"/>
-    </channel>
-    <channel id="5">
-        <display-name lang="en">Boston Red Sox</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1024px-RedSoxPrimary_HangingSocks.svg.png"/>
-    </channel>
-    <channel id="6">
-        <display-name lang="en">Chicago Cubs</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1024px-Chicago_Cubs_logo.svg.png"/>
-    </channel>
-    <channel id="7">
-        <display-name lang="en">Chicago White Sox</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/800px-Chicago_White_Sox.svg.png"/>
-    </channel>
-    <channel id="8">
-        <display-name lang="en">Cincinnati Reds</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1920px-Cincinnati_Reds_Logo.svg.png"/>
-    </channel>
-    <channel id="9">
-        <display-name lang="en">Cleveland Indians</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cleveland_Indians_primary_logo.svg/800px-Cleveland_Indians_primary_logo.svg.png"/>
-    </channel>
-    <channel id="10">
-        <display-name lang="en">Colorado Rockies</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_Rockies_logo.svg/800px-Colorado_Rockies_logo.svg.png"/>
-    </channel>
-    <channel id="11">
-        <display-name lang="en">Detroit Tigers</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/800px-Detroit_Tigers_logo.svg.png"/>
-    </channel>
-    <channel id="12">
-        <display-name lang="en">Houston Astros</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Houston-Astros-Logo.svg/1024px-Houston-Astros-Logo.svg.png"/>
-    </channel>
-    <channel id="13">
-        <display-name lang="en">Kansas City Royals</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/800px-Kansas_City_Royals.svg.png"/>
-    </channel>
-    <channel id="14">
-        <display-name lang="en">Los Angeles Angels</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/800px-Los_Angeles_Angels_of_Anaheim.svg.png"/>
-    </channel>
-    <channel id="15">
-        <display-name lang="en">Miami Marlins</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Marlins_team_logo.svg/1024px-Marlins_team_logo.svg.png"/>
-    </channel>
-    <channel id="16">
-        <display-name lang="en">Milwaukee Brewers</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/1024px-Milwaukee_Brewers_logo.svg.png"/>
-    </channel>
-    <channel id="17">
-        <display-name lang="en">Minnesota Twins</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1024px-Minnesota_Twins_logo_%28low_res%29.svg.png"/>
-    </channel>
-    <channel id="18">
-        <display-name lang="en">New York Mets</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1024px-New_York_Mets.svg.png"/>
-    </channel>
-    <channel id="19">
-        <display-name lang="en">New York Yankees</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/800px-NewYorkYankees_PrimaryLogo.svg.png"/>
-    </channel>
-    <channel id="20">
-        <display-name lang="en">Oakland Athetics</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1024px-Oakland_A%27s_logo.svg.png"/>
-    </channel>
-    <channel id="21">
-        <display-name lang="en">Philadelphia Phillies</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Philadelphia_Phillies_%282019%29_logo.svg/1024px-Philadelphia_Phillies_%282019%29_logo.svg.png"/>
-    </channel>
-    <channel id="22">
-        <display-name lang="en">Pittsburgh Pirates</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/800px-Pittsburgh_Pirates_logo_2014.svg.png"/>
-    </channel>
-    <channel id="23">
-        <display-name lang="en">San Diego Padres</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SD_Logo_Brown.svg/800px-SD_Logo_Brown.svg.png"/>
-    </channel>
-    <channel id="24">
-        <display-name lang="en">San Francisco Giants</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/San_Francisco_Giants_Logo.svg/1920px-San_Francisco_Giants_Logo.svg.png"/>
-    </channel>
-    <channel id="25">
-        <display-name lang="en">Seattle Mariners</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/1024px-Seattle_Mariners_logo_%28low_res%29.svg.png"/>
-    </channel>
-    <channel id="26">
-        <display-name lang="en">St. Louis Cardinals</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/1024px-St._Louis_Cardinals_logo.svg.png"/>
-    </channel>
-    <channel id="27">
-        <display-name lang="en">Tampa Bay Rays</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Tampa_Bay_Rays.svg/1920px-Tampa_Bay_Rays.svg.png"/>
-    </channel>
-    <channel id="28">
-        <display-name lang="en">Texas Rangers</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1024px-Texas_Rangers.svg.png"/>
-    </channel>
-    <channel id="29">
-        <display-name lang="en">Toronto Blue Jays</display-name>
-        <icon src="https://sportslogohistory.com/wp-content/uploads/2016/SLH/mlb_primary/toronto_blue_jays.png"/>
-    </channel>
-    <channel id="30">
-        <display-name lang="en">Washington Nationals</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Washington_Nationals_logo_%28low_res%29.svg/1024px-Washington_Nationals_logo_%28low_res%29.svg.png"/>
+        <display-name lang="en">ESPN 1 (NL)</display-name>
+        <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
     </channel>
     <programme start="20210417030700 +0000" stop="20210417041000 +0000" channel="1">
         <title lang="en">ESPN Vandaag</title>
@@ -161,7 +45,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210417080000 +0000" stop="20210417081500 +0000" channel="1">
-        <title lang="en">Leipzig</title>
+        <title lang="en">Leipzig - Hoffenheim</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 182 van 230 - samenvatting
@@ -169,7 +53,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Samenvatting van de wedstrijd RB Leipzig - TSG Hoffenheim uit de 29e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210417081500 +0000" stop="20210417083000 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 23 van 325 - samenvatting
@@ -185,7 +69,7 @@ Hoogtepunten van de wedstrijd Ajax - Vitesse uit de 3e speelronde van het Erediv
 Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Feyenoord.</desc>
     </programme>
     <programme start="20210417091000 +0000" stop="20210417093000 +0000" channel="1">
-        <title lang="en">Onvoorspelbaar: Ajax</title>
+        <title lang="en">Onvoorspelbaar: Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 4 van 6
@@ -209,7 +93,7 @@ Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV.</d
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210417110000 +0000" stop="20210417111500 +0000" channel="1">
-        <title lang="en">SC Cambuur</title>
+        <title lang="en">SC Cambuur - Helmond Sport</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 297 van 330 - samenvatting
@@ -217,7 +101,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Samenvatting van SC Cambuur - Helmond Sport uit de Keuken Kampioen Divisie.</desc>
     </programme>
     <programme start="20210417111500 +0000" stop="20210417113000 +0000" channel="1">
-        <title lang="en">Roda JC Kerkrade</title>
+        <title lang="en">Roda JC Kerkrade - NAC Breda</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 298 van 330 - samenvatting
@@ -225,7 +109,7 @@ Samenvatting van SC Cambuur - Helmond Sport uit de Keuken Kampioen Divisie.</des
 Samenvatting van Roda JC Kerkrade - NAC Breda uit de Keuken Kampioen Divisie.</desc>
     </programme>
     <programme start="20210417113000 +0000" stop="20210417114500 +0000" channel="1">
-        <title lang="en">Leipzig</title>
+        <title lang="en">Leipzig - Hoffenheim</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 182 van 230 - samenvatting
@@ -265,7 +149,7 @@ Ajax gaat tegen Vitesse proberen voor de twintigste keer in de clubhistorie de K
 In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax.</desc>
     </programme>
     <programme start="20210417134000 +0000" stop="20210417140000 +0000" channel="1">
-        <title lang="en">Onvoorspelbaar: Ajax</title>
+        <title lang="en">Onvoorspelbaar: Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 4 van 6
@@ -281,7 +165,7 @@ In het voetbalseizoen 2020-2021 peilen Jan Joost van Gangelen en Rafael van der 
 Live programma rondom de wedstrijden in de TOTO KNVB Beker op ESPN en FOX. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
     </programme>
     <programme start="20210417143000 +0000" stop="20210417162000 +0000" channel="1">
-        <title lang="en">TOTO KNVB Beker: FC Twente</title>
+        <title lang="en">TOTO KNVB Beker: FC Twente - ADO Den Haag</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 1 van 9 - V
@@ -313,7 +197,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Live programma rondom de wedstrijden uit de Keuken Kampioen Divisie. Met voorbeschouwingen, analyses, highlights en interviews.</desc>
     </programme>
     <programme start="20210417180000 +0000" stop="20210417195000 +0000" channel="1">
-        <title lang="en">Go Ahead Eagles</title>
+        <title lang="en">Go Ahead Eagles - Almere City</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 306 van 381
@@ -345,7 +229,7 @@ Op 18 april 2021 spelen Ajax en Vitesse de bekerfinale. In dit programma zien we
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210417213000 +0000" stop="20210417215500 +0000" channel="1">
-        <title lang="en">Onvoorspelbaar: Ajax</title>
+        <title lang="en">Onvoorspelbaar: Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 4 van 6
@@ -353,7 +237,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 In het voetbalseizoen 2020-2021 peilen Jan Joost van Gangelen en Rafael van der Vaart iedere ronde de voorspellingen van spelers, fans en BN-ers voor een interessante bekerwedstrijd. De twee presentatoren doen zelf ook mee en wie het slechtste voorspelt, levert de volgende aflevering een onvoorspelbare, maar altijd grappige tegenprestatie. In deze aflevering wordt met onder meer Theo Janssen en Sjaak Swart vooruitgeblikt op de finale Ajax - Vitesse.</desc>
     </programme>
     <programme start="20210417215500 +0000" stop="20210417000000 +0000" channel="1">
-        <title lang="en">LAFC</title>
+        <title lang="en">LAFC - Austin FC</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">LAFC - Austin FC. Seizoen 2021 - Aflevering 4 van 200
@@ -521,7 +405,7 @@ De dag van de bekerfinale begint om 10.00 uur op ESPN. Presentator Milan van Don
 Programma rondom de live wedstrijden uit de Pure Energie Eredivisie Vrouwen met voor- en nabeschouwingen, analyses en interviews.</desc>
     </programme>
     <programme start="20210418101500 +0000" stop="20210418120500 +0000" channel="1">
-        <title lang="en">TOTO KNVB Beker: PSV</title>
+        <title lang="en">TOTO KNVB Beker: PSV - Ajax</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">TOTO KNVB Beker: PSV - Ajax. Seizoen 2020-2021 - Aflevering 2 van 9 - V
@@ -545,7 +429,7 @@ Programma rondom de live wedstrijden uit de Pure Energie Eredivisie Vrouwen met 
 Op 18 april 2021 spelen Ajax en Vitesse de bekerfinale. In dit programma zien we de weg naar De Kuip die beide clubs aflegden.</desc>
     </programme>
     <programme start="20210418131000 +0000" stop="20210418133000 +0000" channel="1">
-        <title lang="en">Onvoorspelbaar: Ajax</title>
+        <title lang="en">Onvoorspelbaar: Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 4 van 6
@@ -569,7 +453,7 @@ Na de bekerwinst in 2017 staat Vitesse dit seizoen opnieuw in de bekerfinale, wa
 Live programma rondom de wedstrijden in de TOTO KNVB Beker op ESPN en FOX. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
     </programme>
     <programme start="20210418160000 +0000" stop="20210418175500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - Vitesse. Seizoen 2020-2021 - Aflevering 32 van 35
@@ -601,7 +485,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Eind jaren '90 werd Vitesse met heel veel jeugdelftallen landskampioen. Veel jongens van de jeugdopleiding braken door, zo ook Roy Makaay en Nicky Hofs. Daarna bleef succes voor een langere periode uit. In de ESPN DOC De jeugd van tegenwoordig proberen Jan Streuer, Edward Sturing, Gerry Hamstra, Roy Makaay en Nicky Hofs te verklaren waar het succes vandaan kwam en waarom het daarna niet meer lukte.</desc>
     </programme>
     <programme start="20210418203000 +0000" stop="20210418204500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - Vitesse. Seizoen 2020-2021 - Aflevering 28 van 35 - samenvatting
@@ -609,7 +493,7 @@ Eind jaren '90 werd Vitesse met heel veel jeugdelftallen landskampioen. Veel jon
 Samenvatting van de finale in de TOTO KNVB Beker: Ajax - Vitesse.</desc>
     </programme>
     <programme start="20210418204500 +0000" stop="20210418210000 +0000" channel="1">
-        <title lang="en">Beker: PSV</title>
+        <title lang="en">Beker: PSV - Ajax</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 31 van 35 - v
@@ -625,7 +509,7 @@ Samenvatting van de wedstrijd PSV - Ajax, de halve finale uit het bekertoernooi 
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210418213000 +0000" stop="20210418215000 +0000" channel="1">
-        <title lang="en">Nashville SC</title>
+        <title lang="en">Nashville SC - FC Cincinnati</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Nashville SC - FC Cincinnati. Seizoen 2021 - Aflevering 2 van 200 - samenvatting
@@ -633,7 +517,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Samenvatting van Nashville SC - FC Cincinnati uit de Major League Soccer.</desc>
     </programme>
     <programme start="20210418215000 +0000" stop="20210417235500 +0000" channel="1">
-        <title lang="en">Columbus Crew</title>
+        <title lang="en">Columbus Crew - Philadelphia Union</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Columbus Crew - Philadelphia Union. Seizoen 2021 - Aflevering 7 van 200
@@ -697,7 +581,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210419025000 +0000" stop="20210419030700 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - Vitesse. Seizoen 2020-2021 - Aflevering 28 van 35 - samenvatting
@@ -721,7 +605,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210419120000 +0000" stop="20210419134500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - Vitesse. Seizoen 2020-2021 - Aflevering 32 van 35
@@ -737,7 +621,7 @@ Verslag van de wedstrijd Ajax - Vitesse in de finale van de TOTO KNVB Beker.</de
 Samenvatting van de wedstrijd FC Twente - ADO Den Haag, de halve finale uit het bekertoernooi voor vrouwen.</desc>
     </programme>
     <programme start="20210419140000 +0000" stop="20210419142000 +0000" channel="1">
-        <title lang="en">Beker: PSV</title>
+        <title lang="en">Beker: PSV - Ajax</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 31 van 35 - v
@@ -745,7 +629,7 @@ Samenvatting van de wedstrijd FC Twente - ADO Den Haag, de halve finale uit het 
 Samenvatting van de wedstrijd PSV - Ajax, de halve finale uit het bekertoernooi voor vrouwen.</desc>
     </programme>
     <programme start="20210419142000 +0000" stop="20210419144000 +0000" channel="1">
-        <title lang="en">Inter Miami</title>
+        <title lang="en">Inter Miami - LA Galaxy</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Inter Miami - LA Galaxy. Seizoen 2021 - Aflevering 3 van 200 - samenvatting
@@ -753,7 +637,7 @@ Samenvatting van de wedstrijd PSV - Ajax, de halve finale uit het bekertoernooi 
 Samenvatting van Inter Miami - LA Galaxy uit de Major League Soccer.</desc>
     </programme>
     <programme start="20210419144000 +0000" stop="20210419150000 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - Vitesse. Seizoen 2020-2021 - Aflevering 28 van 35 - samenvatting
@@ -777,7 +661,7 @@ Van maandag tot en met donderdag bespreekt een gezelschap van vier experts - pre
 Een eerbetoon aan Willy van der Kuijlen. 'Mister PSV' overleed in de nacht van zondag op maandag. De topscorer aller tijden van de Eredivisie, bij leven al een legende, zal voor altijd verbonden blijven aan de Eindhovense club.</desc>
     </programme>
     <programme start="20210419163000 +0000" stop="20210419164000 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - Vitesse. Seizoen 2020-2021 - Aflevering 28 van 35 - samenvatting
@@ -809,7 +693,7 @@ Steven Berghuis is een van de meest waardevolle spelers van de Eredivisie. Het t
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210419175000 +0000" stop="20210419200100 +0000" channel="1">
-        <title lang="en">Jong PSV</title>
+        <title lang="en">Jong PSV - De Graafschap</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 301 van 381
@@ -961,7 +845,7 @@ Van maandag tot en met donderdag bespreekt een gezelschap van vier experts - pre
 Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Feyenoord.</desc>
     </programme>
     <programme start="20210420081500 +0000" stop="20210420083000 +0000" channel="1">
-        <title lang="en">Jong PSV</title>
+        <title lang="en">Jong PSV - De Graafschap</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 299 van 330 - samenvatting
@@ -1017,7 +901,7 @@ Van maandag tot en met donderdag bespreekt een gezelschap van vier experts - pre
 De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden uitgezonden.</desc>
     </programme>
     <programme start="20210420125000 +0000" stop="20210420131000 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - Vitesse. Seizoen 2020-2021 - Aflevering 28 van 35 - samenvatting
@@ -1025,7 +909,7 @@ De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden u
 Samenvatting van de finale in de TOTO KNVB Beker: Ajax - Vitesse.</desc>
     </programme>
     <programme start="20210420131000 +0000" stop="20210420133000 +0000" channel="1">
-        <title lang="en">Jong PSV</title>
+        <title lang="en">Jong PSV - De Graafschap</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 299 van 330 - samenvatting
@@ -1073,7 +957,7 @@ Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Feyenoord.</de
 In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax.</desc>
     </programme>
     <programme start="20210420162500 +0000" stop="20210420182500 +0000" channel="1">
-        <title lang="en">FC Köln</title>
+        <title lang="en">FC Köln - RB Leipzig</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 273 van 311
@@ -1081,7 +965,7 @@ In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwinge
 Verslag van de wedstrijd FC Köln - RB Leipzig uit de 30e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210420182500 +0000" stop="20210420203000 +0000" channel="1">
-        <title lang="en">Bayern München</title>
+        <title lang="en">Bayern München - Bayer Leverkusen</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 266 van 311
@@ -1193,7 +1077,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210421022500 +0000" stop="20210421024000 +0000" channel="1">
-        <title lang="en">Bayern München</title>
+        <title lang="en">Bayern München - Leverkusen</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 189 van 230 - samenvatting
@@ -1329,7 +1213,7 @@ Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV.</d
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210421103000 +0000" stop="20210421104500 +0000" channel="1">
-        <title lang="en">Arminia Bielefeld</title>
+        <title lang="en">Arminia Bielefeld - Schalke 04</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 190 van 230 - samenvatting
@@ -1337,7 +1221,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Samenvatting van de wedstrijd Arminia Bielefeld - Schalke 04 uit de 30e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210421104500 +0000" stop="20210421110000 +0000" channel="1">
-        <title lang="en">Bayern München</title>
+        <title lang="en">Bayern München - Leverkusen</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 189 van 230 - samenvatting
@@ -1369,7 +1253,7 @@ De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden u
 Een eerbetoon aan Willy van der Kuijlen. 'Mister PSV' overleed in de nacht van zondag op maandag. De topscorer aller tijden van de Eredivisie, bij leven al een legende, zal voor altijd verbonden blijven aan de Eindhovense club.</desc>
     </programme>
     <programme start="20210421120000 +0000" stop="20210421122000 +0000" channel="1">
-        <title lang="en">FC Köln</title>
+        <title lang="en">FC Köln - Leipzig</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 188 van 230 - samenvatting
@@ -1377,7 +1261,7 @@ Een eerbetoon aan Willy van der Kuijlen. 'Mister PSV' overleed in de nacht van z
 Samenvatting van de wedstrijd FC Köln - RB Leipzig uit de 30e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210421122000 +0000" stop="20210421124000 +0000" channel="1">
-        <title lang="en">Arminia Bielefeld</title>
+        <title lang="en">Arminia Bielefeld - Schalke 04</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 190 van 230 - samenvatting
@@ -1385,7 +1269,7 @@ Samenvatting van de wedstrijd FC Köln - RB Leipzig uit de 30e speelronde van de 
 Samenvatting van de wedstrijd Arminia Bielefeld - Schalke 04 uit de 30e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210421124000 +0000" stop="20210421130000 +0000" channel="1">
-        <title lang="en">Bayern München</title>
+        <title lang="en">Bayern München - Leverkusen</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 189 van 230 - samenvatting
@@ -1449,7 +1333,7 @@ In Voetbalpraatjes krijgen kinderen van 8 tot 15 jaar onder leiding van gespreks
 De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden uitgezonden.</desc>
     </programme>
     <programme start="20210421163000 +0000" stop="20210421165000 +0000" channel="1">
-        <title lang="en">FC Köln</title>
+        <title lang="en">FC Köln - Leipzig</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 188 van 230 - samenvatting
@@ -1457,7 +1341,7 @@ De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden u
 Samenvatting van de wedstrijd FC Köln - RB Leipzig uit de 30e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210421165000 +0000" stop="20210421171000 +0000" channel="1">
-        <title lang="en">Arminia Bielefeld</title>
+        <title lang="en">Arminia Bielefeld - Schalke 04</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 190 van 230 - samenvatting
@@ -1465,7 +1349,7 @@ Samenvatting van de wedstrijd FC Köln - RB Leipzig uit de 30e speelronde van de 
 Samenvatting van de wedstrijd Arminia Bielefeld - Schalke 04 uit de 30e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210421171000 +0000" stop="20210421173000 +0000" channel="1">
-        <title lang="en">Bayern München</title>
+        <title lang="en">Bayern München - Leverkusen</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 189 van 230 - samenvatting
@@ -1489,7 +1373,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Hij verbaast vriend en vijand. Iedere transfer die Wout Weghorst maakt is een stapje omhoog. Zoals ieder jongetje droomde ook hij ervan om profvoetballer te worden. Hij kreeg regelmatig te horen dat het hem niet gingen lukken, maar inmiddels speelt de Tukker in de Bundesliga bij VfL Wolfsburg. Een portret van een voetballer die in Nederland kritiek krijgt op zijn maniertjes, maar in Duitsland op handen wordt gedragen.</desc>
     </programme>
     <programme start="20210421182500 +0000" stop="20210421203000 +0000" channel="1">
-        <title lang="en">VfB Stuttgart</title>
+        <title lang="en">VfB Stuttgart - VfL Wolfsburg</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 271 van 311
@@ -1593,7 +1477,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210422020700 +0000" stop="20210422022000 +0000" channel="1">
-        <title lang="en">Dortmund</title>
+        <title lang="en">Dortmund - Union Berlin</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 193 van 230 - samenvatting
@@ -1737,7 +1621,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210422103000 +0000" stop="20210422104500 +0000" channel="1">
-        <title lang="en">Dortmund</title>
+        <title lang="en">Dortmund - Union Berlin</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 193 van 230 - samenvatting
@@ -1777,7 +1661,7 @@ De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden u
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210422120000 +0000" stop="20210422121500 +0000" channel="1">
-        <title lang="en">Stuttgart</title>
+        <title lang="en">Stuttgart - Wolfsburg</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 194 van 230 - samenvatting
@@ -1785,7 +1669,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Samenvatting van de wedstrijd VFB Stuttgart - VFL Wolfsburg uit de 30e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210422121500 +0000" stop="20210422123000 +0000" channel="1">
-        <title lang="en">Dortmund</title>
+        <title lang="en">Dortmund - Union Berlin</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 193 van 230 - samenvatting
@@ -1833,7 +1717,7 @@ In de tweedelige special ‘Drent in de Domstad’ duiken we in de trainerscarrière 
 In de tweedelige special ‘Drent in de Domstad’ duiken we in de trainerscarrière van René Hake. Met in deel 2: een verrassende stap naar Jong FC Utrecht, successen als team en individu, doorstoten naar het vlaggenschip en oog in oog staan met supporters.</desc>
     </programme>
     <programme start="20210422160000 +0000" stop="20210422164500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Utrecht: Voorbeschouwing</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 165 van 265
@@ -1841,7 +1725,7 @@ In de tweedelige special ‘Drent in de Domstad’ duiken we in de trainerscarrière 
 Programma vanuit de studio en vanaf de velden rondom drie live-wedstrijden uit de Eredivisie, met voor- en nabeschouwingen.</desc>
     </programme>
     <programme start="20210422164500 +0000" stop="20210422183500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - FC Utrecht</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 187 van 326
@@ -1849,7 +1733,7 @@ Programma vanuit de studio en vanaf de velden rondom drie live-wedstrijden uit d
 Verslag van de wedstrijd Ajax - FC Utrecht in de 21e speelronde van de Eredivisie 2020-2021.</desc>
     </programme>
     <programme start="20210422183500 +0000" stop="20210422191500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - Utrecht: Nabeschouwing</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 166 van 265
@@ -1993,7 +1877,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210423023000 +0000" stop="20210423024500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - FC Utrecht</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - FC Utrecht. Seizoen 2020-2021 - Aflevering 186 van 325 - samenvatting
@@ -2089,7 +1973,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210423080000 +0000" stop="20210423081500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - FC Utrecht</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - FC Utrecht. Seizoen 2020-2021 - Aflevering 186 van 325 - samenvatting
@@ -2097,7 +1981,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Hoogtepunten van een wedstrijd uit de Eredivisie.</desc>
     </programme>
     <programme start="20210423081500 +0000" stop="20210423083000 +0000" channel="1">
-        <title lang="en">Fluminense</title>
+        <title lang="en">Fluminense - River Plate</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2021 - Aflevering 1 van 50 - samenvatting
@@ -2129,7 +2013,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210423100000 +0000" stop="20210423101500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - FC Utrecht</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - FC Utrecht. Seizoen 2020-2021 - Aflevering 186 van 325 - samenvatting
@@ -2137,7 +2021,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Hoogtepunten van een wedstrijd uit de Eredivisie.</desc>
     </programme>
     <programme start="20210423101500 +0000" stop="20210423103000 +0000" channel="1">
-        <title lang="en">Fluminense</title>
+        <title lang="en">Fluminense - River Plate</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2021 - Aflevering 1 van 50 - samenvatting
@@ -2177,7 +2061,7 @@ De samenvattingen van de afgelopen speelronde in de Bundesliga</desc>
 De samenvattingen van de gespeelde wedstrijden in de Keuken Kampioen Divisie.</desc>
     </programme>
     <programme start="20210423140000 +0000" stop="20210423141500 +0000" channel="1">
-        <title lang="en">Fluminense</title>
+        <title lang="en">Fluminense - River Plate</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2021 - Aflevering 1 van 50 - samenvatting
@@ -2209,7 +2093,7 @@ Alle hoogtepunten van het afgelopen seizoen in de TOTO KNVB Beker.</desc>
 Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV.</desc>
     </programme>
     <programme start="20210423160000 +0000" stop="20210423161500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - FC Utrecht</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - FC Utrecht. Seizoen 2020-2021 - Aflevering 186 van 325 - samenvatting
@@ -2225,7 +2109,7 @@ Hoogtepunten van een wedstrijd uit de Eredivisie.</desc>
 Live programma waarin wordt geschakeld tussen alle wedstrijden van vrijdag uit de Eredivisie, Keuken Kampioen Divisie en Bundesliga.</desc>
     </programme>
     <programme start="20210423164500 +0000" stop="20210423183500 +0000" channel="1">
-        <title lang="en">Willem II</title>
+        <title lang="en">Willem II - RKC Waalwijk</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 270 van 326
@@ -2305,7 +2189,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210424024500 +0000" stop="20210424030000 +0000" channel="1">
-        <title lang="en">Willem II</title>
+        <title lang="en">Willem II - RKC Waalwijk</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 262 van 325 - samenvatting
@@ -2417,7 +2301,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax.</desc>
     </programme>
     <programme start="20210424123000 +0000" stop="20210424124500 +0000" channel="1">
-        <title lang="en">Willem II</title>
+        <title lang="en">Willem II - RKC Waalwijk</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 262 van 325 - samenvatting
@@ -2425,7 +2309,7 @@ In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwinge
 Hoogtepunten van de wedstrijd Willem II - RKC Waalwijk uit de 30e speelronde van de Eredivisie.</desc>
     </programme>
     <programme start="20210424124500 +0000" stop="20210424130000 +0000" channel="1">
-        <title lang="en">Fluminense</title>
+        <title lang="en">Fluminense - River Plate</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2021 - Aflevering 1 van 50 - samenvatting
@@ -2441,7 +2325,7 @@ Samenvatting van de wedstrijd Fluminense - River Plate uit de Copa Libertadores 
 Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie.</desc>
     </programme>
     <programme start="20210424132000 +0000" stop="20210424134000 +0000" channel="1">
-        <title lang="en">FC Augsburg</title>
+        <title lang="en">FC Augsburg - FC Köln</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 196 van 230 - samenvatting
@@ -2449,7 +2333,7 @@ Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie.</desc>
 Samenvatting van de wedstrijd FC Augsburg - FC Köln uit de 31e speelronde van de Bundesliga.</desc>
     </programme>
     <programme start="20210424134000 +0000" stop="20210424140000 +0000" channel="1">
-        <title lang="en">Willem II</title>
+        <title lang="en">Willem II - RKC Waalwijk</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 262 van 325 - samenvatting
@@ -2465,7 +2349,7 @@ Hoogtepunten van de wedstrijd Willem II - RKC Waalwijk uit de 30e speelronde van
 Jan Joost van Gangelen ontvangt iedere zaterdagavond twee analisten, een voetbalgast en een bekende voetballiefhebber en samen beschouwen ze voor en na op wedstrijden van deze avond in de Eredivisie en de Bundesliga.</desc>
     </programme>
     <programme start="20210424143000 +0000" stop="20210424162000 +0000" channel="1">
-        <title lang="en">sc Heerenveen</title>
+        <title lang="en">sc Heerenveen - PEC Zwolle</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 263 van 326
@@ -2481,7 +2365,7 @@ Verslag van de wedstrijd sc Heerenveen - PEC Zwolle in de 30e speelronde van de 
 Jan Joost van Gangelen ontvangt iedere zaterdagavond twee analisten, een voetbalgast en een bekende voetballiefhebber en samen beschouwen ze voor en na op wedstrijden van deze avond in de Eredivisie en de Bundesliga.</desc>
     </programme>
     <programme start="20210424164500 +0000" stop="20210424183500 +0000" channel="1">
-        <title lang="en">PSV</title>
+        <title lang="en">PSV - FC Groningen</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 267 van 326
@@ -2521,7 +2405,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210424214500 +0000" stop="20210423220500 +0000" channel="1">
-        <title lang="en">R02: New York City FC</title>
+        <title lang="en">R02: New York City FC - FC Cincinnati</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2021 - Aflevering 4 van 200 - samenvatting
@@ -2529,7 +2413,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Samenvatting van R02: New York City FC - FC Cincinnati uit de Major League Soccer.</desc>
     </programme>
     <programme start="20210424220500 +0000" stop="20210425000500 +0000" channel="1">
-        <title lang="en">LAFC</title>
+        <title lang="en">LAFC - Seattle Sounders</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">LAFC - Seattle Sounders. Seizoen 2021 - Aflevering 14 van 200
@@ -2561,7 +2445,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210425021500 +0000" stop="20210425023000 +0000" channel="1">
-        <title lang="en">PSV</title>
+        <title lang="en">PSV - FC Groningen</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 264 van 325 - samenvatting
@@ -2617,7 +2501,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210425070000 +0000" stop="20210425071500 +0000" channel="1">
-        <title lang="en">R02: New York City FC</title>
+        <title lang="en">R02: New York City FC - FC Cincinnati</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2021 - Aflevering 4 van 200 - samenvatting
@@ -2649,7 +2533,7 @@ De ideale voetbalzondag begint ook dit seizoen om 10.00 uur op ESPN. Presentator
 Programma rondom de live wedstrijden uit de Pure Energie Eredivisie Vrouwen met voor- en nabeschouwingen, analyses en interviews.</desc>
     </programme>
     <programme start="20210425101500 +0000" stop="20210425120500 +0000" channel="1">
-        <title lang="en">PSV</title>
+        <title lang="en">PSV - Ajax</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 16 van 25 - v
@@ -2673,7 +2557,7 @@ Programma rondom de live wedstrijden uit de Pure Energie Eredivisie Vrouwen met 
 Programma vanuit de studio en vanaf de velden rondom drie live-wedstrijden uit de Eredivisie, met voor- en nabeschouwingen.</desc>
     </programme>
     <programme start="20210425123000 +0000" stop="20210425142000 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - AZ</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Ajax - AZ. Seizoen 2020-2021 - Aflevering 266 van 326
@@ -2689,7 +2573,7 @@ Verslag van de wedstrijd Ajax - AZ in de 30e speelronde van de Eredivisie 2020-2
 Programma vanuit de studio en vanaf de velden rondom drie live-wedstrijden uit de Eredivisie, met voor- en nabeschouwingen.</desc>
     </programme>
     <programme start="20210425144500 +0000" stop="20210425163500 +0000" channel="1">
-        <title lang="en">Feyenoord</title>
+        <title lang="en">Feyenoord - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 271 van 326
@@ -2729,7 +2613,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 De hoogtepunten uit de gespeelde wedstrijden in de Pure Energie Eredivisie Vrouwen 2020-2021.</desc>
     </programme>
     <programme start="20210425193000 +0000" stop="20210425194500 +0000" channel="1">
-        <title lang="en">Feyenoord</title>
+        <title lang="en">Feyenoord - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 270 van 325 - samenvatting
@@ -2737,7 +2621,7 @@ De hoogtepunten uit de gespeelde wedstrijden in de Pure Energie Eredivisie Vrouw
 Hoogtepunten van de wedstrijd Feyenoord - Vitesse uit de 30e speelronde van de Eredivisie.</desc>
     </programme>
     <programme start="20210425194500 +0000" stop="20210425200000 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - AZ</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 266 van 325 - samenvatting
@@ -2801,7 +2685,7 @@ Een analytische round-up van de afgelopen speelronde in de Eredivisie. Wat waren
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
     <programme start="20210426023800 +0000" stop="20210426025100 +0000" channel="1">
-        <title lang="en">Feyenoord</title>
+        <title lang="en">Feyenoord - Vitesse</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 270 van 325 - samenvatting
@@ -2809,7 +2693,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Hoogtepunten van de wedstrijd Feyenoord - Vitesse uit de 30e speelronde van de Eredivisie.</desc>
     </programme>
     <programme start="20210426025100 +0000" stop="20210426030500 +0000" channel="1">
-        <title lang="en">Ajax</title>
+        <title lang="en">Ajax - AZ</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
         <desc lang="en">Seizoen 2020-2021 - Aflevering 266 van 325 - samenvatting

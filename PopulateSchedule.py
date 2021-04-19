@@ -41,7 +41,7 @@ while True:
 
     #---------------------------------------------------------------------------------
 
-    XML_Base = open("XML_base.txt", "r+", encoding="latin1").read()
+    XML_Base = open("XML_base_MLB.txt", "r+", encoding="latin1").read()
     XML_Text = XML_Base
     XML_End = """\n</tv>"""
 
