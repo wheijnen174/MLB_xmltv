@@ -1,3 +1,5 @@
 env
 PopulateSchedule.bat
-PopulateSchedule_start.vbs
+PopulateSchedule.vbs
+Get_TVGids_Schedule.bat
+Get_TVGids_Schedule.vbs

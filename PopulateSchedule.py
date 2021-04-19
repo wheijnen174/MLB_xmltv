@@ -191,7 +191,7 @@ while True:
     NewFile.write(XML_Text)
     NewFile.close()
 
-    dfSchedule.to_csv("Schedule.csv", index=False, sep=";")
+    dfSchedule.to_csv("Schedule_MLB.csv", index=False, sep=";")
 
     PushToGit = subprocess.run('git init')
     PushToGit = subprocess.run('git add *')

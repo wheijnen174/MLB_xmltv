@@ -1,6 +1,4 @@
 #EXTM3U
 #EXTINF:0 tvg-id="1" CUID="1" tvg-chno="1" tvg-name="ESPN 1 (NL)" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png" group-title="Overig",ESPN 1 (NL)
 https://content-aeuf1.uplynk.com/channel/532ece05d1b44d6f89e9fcdedd09350f.m3u8?pbs=4f70afb7f912417283c860349663c07b
-#EXTINF:0 tvg-id="2" CUID="2" tvg-chno="2" tvg-name="ESPN 2 (NL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="Overig",ESPN 2 (NL)
-https://e10.espncdn.shop/ingestnb4s/fs2/master.m3u8
 
