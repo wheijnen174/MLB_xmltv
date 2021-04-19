@@ -5383,7 +5383,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 In het voetbalseizoen 2020-2021 peilen Jan Joost van Gangelen en Rafael van der Vaart iedere ronde de voorspellingen van spelers, fans en BN-ers voor een interessante bekerwedstrijd. De twee presentatoren doen zelf ook mee en wie het slechtste voorspelt, levert de volgende aflevering een onvoorspelbare, maar altijd grappige tegenprestatie. In deze aflevering wordt met onder meer Theo Janssen en Sjaak Swart vooruitgeblikt op de finale Ajax - Vitesse.</desc>
     </programme>
 
-    <programme start="20210417215500 +0000" stop="20210417000000 +0000" channel="31">
+    <programme start="20210417215500 +0000" stop="20210418000000 +0000" channel="31">
         <title lang="en">LAFC - Austin FC</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
@@ -5698,7 +5698,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Samenvatting van Nashville SC - FC Cincinnati uit de Major League Soccer.</desc>
     </programme>
 
-    <programme start="20210418215000 +0000" stop="20210417235500 +0000" channel="31">
+    <programme start="20210418215000 +0000" stop="20210418235500 +0000" channel="31">
         <title lang="en">Columbus Crew - Philadelphia Union</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
@@ -5896,7 +5896,7 @@ Van maandag tot en met donderdag bespreekt een gezelschap van vier experts - pre
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
 
-    <programme start="20210419213000 +0000" stop="20210418220000 +0000" channel="31">
+    <programme start="20210419213000 +0000" stop="20210419220000 +0000" channel="31">
         <title lang="en">MLS Highlights</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
@@ -6211,7 +6211,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
 
-    <programme start="20210420215800 +0000" stop="20210419222800 +0000" channel="31">
+    <programme start="20210420215800 +0000" stop="20210420222800 +0000" channel="31">
         <title lang="en">ESPN Vandaag</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
@@ -6670,7 +6670,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
 
-    <programme start="20210421215800 +0000" stop="20210420222800 +0000" channel="31">
+    <programme start="20210421215800 +0000" stop="20210421222800 +0000" channel="31">
         <title lang="en">ESPN Vandaag</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
@@ -7111,6 +7111,15 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
 
+    <programme start="20210422215500 +0000" stop="20210423000000 +0000" channel="31">
+        <title lang="en">Fluminense - River Plate</title>
+        <previously-shown/>
+        <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
+        <desc lang="en">Seizoen 2021 - Aflevering 1 van 50
+
+Verslag van de wedstrijd Fluminense - River Plate in de Copa Libertadores 2021, de Zuid-Amerikaanse versie van de Champions League.</desc>
+    </programme>
+
     <programme start="20210423000000 +0000" stop="20210423002500 +0000" channel="31">
         <title lang="en">ESPN Vandaag</title>
         <previously-shown/>
@@ -7462,7 +7471,7 @@ Live programma waarin wordt geschakeld tussen alle wedstrijden van vrijdag uit d
 Live programma waarin wordt geschakeld tussen alle wedstrijden van vrijdag uit de Eredivisie, Keuken Kampioen Divisie en Bundesliga.</desc>
     </programme>
 
-    <programme start="20210423211500 +0000" stop="20210422221500 +0000" channel="31">
+    <programme start="20210423211500 +0000" stop="20210423221500 +0000" channel="31">
         <title lang="en">ESPN Vandaag</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
@@ -7759,7 +7768,7 @@ Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nati
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
 
-    <programme start="20210424214500 +0000" stop="20210423220500 +0000" channel="31">
+    <programme start="20210424214500 +0000" stop="20210424220500 +0000" channel="31">
         <title lang="en">R02: New York City FC - FC Cincinnati</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
@@ -8020,7 +8029,7 @@ Hoogtepunten van de wedstrijd Ajax - AZ uit de 30e speelronde van de Eredivisie.
 Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
     </programme>
 
-    <programme start="20210425210000 +0000" stop="20210424220000 +0000" channel="31">
+    <programme start="20210425210000 +0000" stop="20210425220000 +0000" channel="31">
         <title lang="en">Dit was het Weekend</title>
         <previously-shown/>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
