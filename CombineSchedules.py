@@ -34,21 +34,21 @@ dfSchedule_Overig = pd.read_csv("Schedule_Overig.csv", sep=";")
 dfSchedule_Combined = pd.DataFrame()
 
 for i in range(len(dfSchedule_MLB)):
-    StartTime = str(dfSchedule_MLB.iloc[i,0])
-    EndTime = str(dfSchedule_MLB.iloc[i,1])
+    StartTime = str(dfSchedule_MLB.iloc[i,0]).replace("&", "en")
+    EndTime = str(dfSchedule_MLB.iloc[i,1]).replace("&", "en")
     Channel_ID = int(dfSchedule_MLB.iloc[i,2])
-    Icon = str(dfSchedule_MLB.iloc[i,4])
-    Program = str(dfSchedule_MLB.iloc[i,3])
-    ProgramDesc = str(dfSchedule_MLB.iloc[i,9])
+    Icon = str(dfSchedule_MLB.iloc[i,4]).replace("&", "en")
+    Program = str(dfSchedule_MLB.iloc[i,3]).replace("&", "en")
+    ProgramDesc = str(dfSchedule_MLB.iloc[i,9]).replace("&", "en")
     dfSchedule_Combined = pd.concat([dfSchedule_Combined, pd.DataFrame([StartTime, EndTime, Channel_ID, Icon, Program, ProgramDesc]).transpose()]).reset_index(drop=True)
 
 for i in range(len(dfSchedule_Overig)):
-    StartTime = str(dfSchedule_Overig.iloc[i,0])
-    EndTime = str(dfSchedule_Overig.iloc[i,1])
+    StartTime = str(dfSchedule_Overig.iloc[i,0]).replace("&", "en")
+    EndTime = str(dfSchedule_Overig.iloc[i,1]).replace("&", "en")
     Channel_ID = int(dfSchedule_Overig.iloc[i,3])
-    Icon = str(dfSchedule_Overig.iloc[i,4])
-    Program = str(dfSchedule_Overig.iloc[i,5])
-    ProgramDesc = str(dfSchedule_Overig.iloc[i,6])
+    Icon = str(dfSchedule_Overig.iloc[i,4]).replace("&", "en")
+    Program = str(dfSchedule_Overig.iloc[i,5]).replace("&", "en")
+    ProgramDesc = str(dfSchedule_Overig.iloc[i,6]).replace("&", "en")
     dfSchedule_Combined = pd.concat([dfSchedule_Combined, pd.DataFrame([StartTime, EndTime, Channel_ID, Icon, Program, ProgramDesc]).transpose()]).reset_index(drop=True)
 
 dfSchedule_Combined.columns = ['StartTime', 'EndTime', 'Channel_ID', 'Icon', 'Program', 'ProgramDesc']
