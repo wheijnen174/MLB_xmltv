@@ -12,7 +12,7 @@ Overig_xml = open("Overig.xml", "r+", encoding="latin1").read()
 
 Combined_m3u = [MLB_m3u.split("\n")[0]]
 Combined_m3u_temp = [MLB_m3u.split("\n")[0]] + MLB_m3u.split("\n")[1:-1] + Overig_m3u.split("\n")[1:-1]
-Combined_xml = [MLB_xml.split("\n")[0], MLB_xml.split("\n")[1]]
+Combined_xml_temp = [MLB_xml.split("\n")[0], MLB_xml.split("\n")[1]]
 
 
 for i in range(1, len(Combined_m3u_temp), 2):
@@ -31,10 +31,39 @@ NewFile.close()
 
 
 
+Overig_xml_programs = Overig_xml.split("    <programme")[1:]
+MLB_xml_programs = MLB_xml.split("    <programme")[1:]
 
 
+for i in range(len(Overig_xml_programs)):
+    Overig_xml_programs[i] = "    <programme" + Overig_xml_programs[i]
+
+for i in range(len(MLB_xml_programs)):
+    MLB_xml_programs[i] = "    <programme" + MLB_xml_programs[i]
 
 
+XML_Channels = []
+
+for i in range(1, len(Combined_m3u.split("\n")), 2):
+    Channel = "\n".join(Combined_m3u.split("\n")[i: i+1+1])
+    ChannelID = Channel[Channel.find("tvg-id")+8:]
+    ChannelID = str(ChannelID[:ChannelID.find('"')])
+    ChannelName = Channel[Channel.find("tvg-name")+10:]
+    ChannelName = str(ChannelName[:ChannelName.find('"')])
+    ChannelIcon = Channel[Channel.find("tvg-logo")+10:]
+    ChannelIcon = str(ChannelIcon[:ChannelIcon.find('"')])
+
+    XML_Channels.append("""    <channel id="{}">\n        <display-name lang="en">{}</display-name>\n        <icon src="{}"/>\n    </channel>""".format(ChannelID, ChannelName, ChannelIcon))
+
+XML_Programs = MLB_xml_programs + Overig_xml_programs
+
+Combined_xml = "\n".join(Combined_xml_temp + XML_Channels + XML_Programs)
+
+
+remove("Combined.xml")
+NewFile = open("Combined.xml", "w+", encoding="UTF-8") # , encoding="latin1"
+NewFile.write(Combined_xml)
+NewFile.close()
 
 
 
