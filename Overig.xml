@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <tv generator-info-name="psuedotv-plex">
     <channel id="1">
-        <display-name lang="en">ESPN 1 (NL)</display-name>
+        <display-name lang="en">ESPN 1 (Netherlands)</display-name>
         <icon src="https://logodownload.org/wp-content/uploads/2015/05/espn-logo.png"/>
     </channel>
     <programme start="20210417030700 +0000" stop="20210417041000 +0000" channel="1">
