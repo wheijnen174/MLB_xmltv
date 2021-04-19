@@ -3,3 +3,5 @@ PopulateSchedule.bat
 PopulateSchedule.vbs
 Get_TVGids_Schedule.bat
 Get_TVGids_Schedule.vbs
+CombineSchedules.bat
+CombineSchedules.vbs
